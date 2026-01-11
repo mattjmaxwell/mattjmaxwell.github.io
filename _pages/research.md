@@ -1,10 +1,3 @@
----
-title: Genetic Load Dissertation Proposal
-author: Matthew J. Maxwell
-bibliography: genetic_load.bib
-linestretch: 1.5
----
-
 # The Project and its Importance
 
 It is well-understood that random mutation provides the raw materials for evolution, but less well-understood that random mutation imposes a cost on populations.
