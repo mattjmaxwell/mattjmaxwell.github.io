@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /research/
 title: "Dissertation"
 excerpt: "Dissertation"
 author_profile: true
