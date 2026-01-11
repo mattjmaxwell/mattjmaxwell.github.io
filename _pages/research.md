@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Dissertation"
+excerpt: "Dissertation"
+author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
+---
+
 # The Project and its Importance
 
 It is well-understood that random mutation provides the raw materials for evolution, but less well-understood that random mutation imposes a cost on populations.
