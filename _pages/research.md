@@ -3,9 +3,9 @@ permalink: /research/
 title: "Dissertation"
 excerpt: "Dissertation"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
+# redirect_from: 
+#  - /research/
+#  - /research.html
 ---
 
 # The Project and its Importance
