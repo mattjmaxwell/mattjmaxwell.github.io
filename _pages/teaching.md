@@ -5,55 +5,50 @@ permalink: /teaching/
 author_profile: true 
 ---
 
-\section*{Teaching}
+# Full Responsibility
 
-\subsection*{Full Responsibility}
+## University of Wisconsin - Madison
 
-\teaching{Introductory AI \& Data Ethics}{}{UW - Madison}{
-	Contemporary moral issues in AI and data ethics, including technical concepts, privacy, automation, and algorithms in medicine and law.}
+### Introductory AI & Data Ethics
 
-\sepspace
+Contemporary moral issues in AI and data ethics, including technical concepts, privacy, automation, and algorithms in medicine and law.
 
-\teaching{Introduction to Philosophy}{$\times 3$ }{UW - Madison}{
-	Introduction to classic and contemporary debates in philosophy, including metaphysics, epistemology, political philosophy, and ethics.}
+### Introduction to Philosophy $\times 3$
 
-\sepspace
+Introduction to classic and contemporary debates in philosophy, including metaphysics, epistemology, political philosophy, and ethics.
 
-\teaching{Ethics in Business}{}{UW - Madison}{
-	Contemporary moral issues in the workplace, including workplace governance, exploitation, whistle-blowing, and the future of work.}
+### Ethics in Business
 
-\sepspace
+Contemporary moral issues in the workplace, including workplace governance, exploitation, whistle-blowing, and the future of work.}
 
-\teaching{Introductory Ethics}{}{UW - Madison}{
-	Introduction to ethical theory, including major ethical theories, reasons to be moral, and moral luck.}
+### Introductory Ethics
 
-\sepspace
+Introduction to ethical theory, including major ethical theories, reasons to be moral, and moral luck.}
 
-\teaching{Philosophy and the Sciences}{}{UW - Madison}{
-	Introduction to philosophy of science, including the scientific method, the problem of induction, the demarcation problem, and the value-free ideal.}
+### Philosophy and the Sciences
 
-\sepspace
+Introduction to philosophy of science, including the scientific method, the problem of induction, the demarcation problem, and the value-free ideal.}
 
-\teaching{Contemporary Moral Issues}{}{UW - Madison}{
-	Contemporary moral issues including charity and altruism, the duty to obey the law, democracy, AI, and oppression.}
+### Contemporary Moral Issues
 
-\subsection*{Teaching Assistant}
+Contemporary moral issues including charity and altruism, the duty to obey the law, democracy, AI, and oppression.}
 
-\teaching{Contemporary Moral Issues}{}{UW - Madison}{}
+# Teaching Assistant
 
-\teaching{Introduction to Philosophy}{$\times 2$ }{UW - Madison}{}
+## University of Wisconsin - Madison
 
-\teaching{Ethics in Business}{}{UW - Madison}{}
+- Contemporary Moral Issues
+- Introduction to Philosophy $\times 2$
+- Ethics in Business
 
-\teaching{Environmental Justice}{}{University of Rochester}{}
+## University of Rochester
 
-\teaching{Moral Problems}{}{University of Rochester}{}
+- Environmental Justice
+- Moral Problems
+- Philosophy of Artificial Intelligence
 
-\teaching{Philosophy of Artificial Intelligence}{}{University of Rochester}{}
+## Simon Fraser University
 
-\teaching{Philosophy of Science}{}{Simon Fraser University}{}
-
-\teaching{Knowledge and Reality}{$\times 5$ }{Simon Fraser University}{}
-
-\teaching{Moral Problems}{$\times 2$ }{Simon Fraser University}{}
-
+- Philosophy of Science
+- Knowledge and Reality $\times 5$
+- Moral Problems $\times 2$
