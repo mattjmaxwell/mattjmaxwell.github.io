@@ -10,4 +10,4 @@ date: 2026-09-02
 Contemporary moral issues in AI and data ethics, including technical concepts, privacy,
 automation, and algorithms in medicine and law.
 
-[Syllabus](244F26.pdf)
+[Syllabus](/files/244F26.pdf)
