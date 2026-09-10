@@ -1,7 +1,6 @@
 ---
 title: "Introductory AI & Data Ethics"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/Fall2026AIEthics
 venue: "University of Wisconsin - Madison"
 date: 2026-09-02
