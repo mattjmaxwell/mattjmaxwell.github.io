@@ -5,108 +5,55 @@ permalink: /teaching/
 author_profile: true 
 ---
 
-<style>
-/* === Card layout === */
+\section*{Teaching}
 
-.course-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.5rem;
-}
+\subsection*{Full Responsibility}
 
-@media (min-width: 1100px) {
-  .course-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
+\teaching{Introductory AI \& Data Ethics}{}{UW - Madison}{
+	Contemporary moral issues in AI and data ethics, including technical concepts, privacy, automation, and algorithms in medicine and law.}
 
-.course-card {
-  background: #fafafa;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  padding: 1.25rem 1.4rem;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
-}
+\sepspace
 
-.course-card h4 {
-  margin: 0 0 0.25rem 0;
-  font-size: 1.05rem;
-}
+\teaching{Introduction to Philosophy}{$\times 3$ }{UW - Madison}{
+	Introduction to classic and contemporary debates in philosophy, including metaphysics, epistemology, political philosophy, and ethics.}
 
-.course-meta {
-  font-size: 0.9rem;
-  color: #666;
-  margin-bottom: 0.5rem;
-}
+\sepspace
 
-.course-role {
-  font-weight: 600;
-  font-size: 0.9rem;
-  margin-top: 0.5rem;
-}
+\teaching{Ethics in Business}{}{UW - Madison}{
+	Contemporary moral issues in the workplace, including workplace governance, exploitation, whistle-blowing, and the future of work.}
 
-.course-description {
-  font-size: 0.95rem;
-  margin-top: 0.5rem;
-}
+\sepspace
 
-details {
-  margin-top: 0.5rem;
-}
+\teaching{Introductory Ethics}{}{UW - Madison}{
+	Introduction to ethical theory, including major ethical theories, reasons to be moral, and moral luck.}
 
-summary {
-  cursor: pointer;
-  font-weight: 600;
-  font-size: 0.9rem;
-}
+\sepspace
 
-summary em {
-  font-weight: 400;
-}
-</style>
+\teaching{Philosophy and the Sciences}{}{UW - Madison}{
+	Introduction to philosophy of science, including the scientific method, the problem of induction, the demarcation problem, and the value-free ideal.}
 
----
+\sepspace
 
-## Instructor of Record
+\teaching{Contemporary Moral Issues}{}{UW - Madison}{
+	Contemporary moral issues including charity and altruism, the duty to obey the law, democracy, AI, and oppression.}
 
-### University of Wisconsin - Madison
+\subsection*{Teaching Assistant}
 
-<div class="course-grid">
+\teaching{Contemporary Moral Issues}{}{UW - Madison}{}
 
-<div class="course-card">
-  <h4>Introductory AI & Data Ethics</h4>
-  <div class="course-meta">PHILOS 244</div>
+\teaching{Introduction to Philosophy}{$\times 2$ }{UW - Madison}{}
 
-  <div class="course-description">
-    <strong>Fall 2026</strong>  
-    
-<details>
-<summary>Course description</summary>
-Contemporary moral issues in AI and data ethics, including technical concepts, privacy, automation, and algorithms in medicine and law.
-<br><br>
-<strong>Syllabus:</strong>  
-<a href="https://travislacroix.github.io/files/LaCroix-PHIL-455-Syl">Summer 2021]</a>
-  </div>
-  
-  <div class="course-description">
-    <strong>2025–2026</strong> · Lectures · Seminars  
-    <br>
-    <em>Lecture topic:</em> Moral panics and moral monsters
-  </div>
+\teaching{Ethics in Business}{}{UW - Madison}{}
 
+\teaching{Environmental Justice}{}{University of Rochester}{}
 
-### University of Rochester
+\teaching{Moral Problems}{}{University of Rochester}{}
 
-<div class="course-grid">
+\teaching{Philosophy of Artificial Intelligence}{}{University of Rochester}{}
 
-<div class="course-card">
-<h4>Seminar in Philosophy of Science — AI and the Value-Alignment Problem</h4>
-<div class="course-meta">PHIL 455 · Summer 2021</div>
-<div class="course-role">Instructor of Record</div>
+\teaching{Philosophy of Science}{}{Simon Fraser University}{}
 
-<details>
-<summary>Course description</summary>
-Ethical, philosophical, and technical challenges of aligning artificial intelligence with human values.
-<br><br>
-<strong>Syllabus:</strong>  
-<a href="https://travislacroix.github.io/files/LaCroix-PHIL-455-Syl">Summer 2021]</a>
+\teaching{Knowledge and Reality}{$\times 5$ }{Simon Fraser University}{}
+
+\teaching{Moral Problems}{$\times 2$ }{Simon Fraser University}{}
+
