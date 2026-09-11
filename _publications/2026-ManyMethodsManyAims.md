@@ -1,5 +1,5 @@
 ---
-title: "<i>Many methods, many aims: evaluating methods in the philosophy of science<i> Sophie J. Veigl and Adrian Currie(eds.): Methods in the philosophy of science: a user’s guide."
+title: "Many methods, many aims: evaluating methods in the philosophy of science<i> Sophie J. Veigl and Adrian Currie(eds.): <i>Methods in the philosophy of science: a user’s guide."
 collection: publications
 author: with Aja Watkins and Andrew Zeppa
 category: bookreview
