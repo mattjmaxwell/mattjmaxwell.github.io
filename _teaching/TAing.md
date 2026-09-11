@@ -3,7 +3,7 @@ title: "Teaching Assistant Experience"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/TAing
-date: 
+date: N/A
 ---
 
 # University of Wisconsin - Madison
