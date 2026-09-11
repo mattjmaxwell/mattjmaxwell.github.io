@@ -9,4 +9,5 @@ date: 2024-06-01
 
 Introduction to ethical theory, including major ethical theories, reasons to be moral, and
 moral luck.
-[Syllabus](/files/Phil241S25.pdf)
+
+[Syllabus](/files/Phil241Su24.pdf)
