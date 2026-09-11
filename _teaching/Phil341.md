@@ -1,5 +1,5 @@
 ---
-title: "Ethics in Business"
+title: "Contemporary Moral Issues"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Phil341
