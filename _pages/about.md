@@ -25,4 +25,4 @@ Outside of philosophy I enjoy running, cycling, cross-country skiing, kayaking, 
 And the worse the weather, the more I enjoy being outside!
 I have also run weekly tabletop role-playing games for over twenty years, often writing my own adventures and settings.
 
-![](/files/keepout.jpg)
+![](/files/AHUFinish.jpg)
