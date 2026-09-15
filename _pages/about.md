@@ -15,7 +15,7 @@ It is critical to be clear what scientists are saying and doing before evaluatin
 
 My dissertation is on genetic load---a measure of fitness diversity in a population.
 This concept has historically been linked to eugenic arguments, but has also had major impacts on our understanding of genetic diversity and natural selection.
-I disambiguate and explore the scientific and social consequences of these findings.
+I disambiguate the concept and explore the scientific and social consequences of these findings.
  
 I also work in social epistemology, formal epistemology, causation, and the history and philosophy of both genetics and measurement.
 
