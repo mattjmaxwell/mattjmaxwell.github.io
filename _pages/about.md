@@ -17,9 +17,9 @@ My dissertation is on genetic load---a measure of fitness diversity in a populat
 This concept has historically been linked to eugenic arguments, but has also had major impacts on our understanding of genetic diversity and natural selection.
 I disambiguate the concept and explore the scientific and social consequences of these findings.
  
-I also work in social epistemology, formal epistemology, causation, and the history and philosophy of both genetics and measurement.
+I also work in social epistemology, formal epistemology, causation, AI, bioethics, and the history and philosophy of both genetics and measurement.
 
-I previously earned an M.A. in philosophy (2018) from [Simon Fraser University](https://www.sfu.ca/philosophy.html) and a B.A. in philosophy (2015) from [Iowa State University](https://philrs.iastate.edu/).
+I hold an M.A. in philosophy (2018) from [Simon Fraser University](https://www.sfu.ca/philosophy.html) and a B.A. in philosophy (2015) from [Iowa State University](https://philrs.iastate.edu/).
 
 Outside of philosophy I enjoy running, cycling, cross-country skiing, kayaking, and sailing---any activity that allows me to feel the weather.
 And the worse the weather, the more I enjoy being outside!
